@@ -53,6 +53,14 @@ It integrates **SQL, Excel, Python, and Tableau** to build a complete end-to-end
 
 ---
 
+## Project Visuals
+
+### Excel Usage Insights
+![Exce](Churn_Summary.png)
+
+### Tableau LMS usage Prediction
+![Prediction](Churn_Prediction.png)
+
 ## 🧾 Summary of the WorkflowRaw 
 
 Data → Cleaning (Python)
