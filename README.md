@@ -75,9 +75,10 @@ SQL views
 ↓  
 Excel Insights  
 ↓  
-Python (Random Forest Model for Predictions) 
-↓  
-Tableau (Prediction data from model)
+Python (Random Forest Model for Predictions)
+↓
+Tableau Prediction Dashboards
+
 
 
 
