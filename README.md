@@ -69,7 +69,7 @@ It integrates **SQL, Excel, Python, and Tableau** to build a complete end-to-end
 
 ## 🧾 Summary of the WorkflowRaw 
 
-Data → Cleaning (Python)
+Raw Data → Cleaning (Python)
 ↓
 SQL Views
 ↓
