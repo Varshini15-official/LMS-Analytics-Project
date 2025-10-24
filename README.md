@@ -67,17 +67,18 @@ It integrates **SQL, Excel, Python, and Tableau** to build a complete end-to-end
 
 ---
 
-## 🧾 Summary of the WorkflowRaw 
+## 📁 Workflow
 
-Raw Data → Cleaning (Python)
-↓
-SQL Views
-↓
-Excel Insights
-↓
-Machine Learning (Python RF)
-↓
-Tableau Prediction Dashboards
+Raw data(cleaning using python)  
+↓  
+SQL views  
+↓  
+Excel Insights  
+↓  
+Python (Random Forest Model for Predictions) 
+↓  
+Tableau (Prediction data from model)
+
 
 
 ---
