@@ -53,13 +53,14 @@ It integrates **SQL, Excel, Python, and Tableau** to build a complete end-to-end
 
 ---
 
-## Project Visuals
+## 📸 Project Visuals
 
-### Excel Usage Insights
-![usage_insights_output](usage_insights_output.png)
+### 📊 Excel Usage Insights
+![usage_insights_output](https://github.com/Varshini15-official/LMS-Analytics-Project/blob/main/LMS_Analysis/excel/EXCEL%20INSIGHTS%20VISUALIZATION/usage_insights_output.png)
 
-### Tableau LMS usage Prediction
-![tableau_prediction](tableau_prediction.png)
+### 📈 Tableau LMS Usage Prediction
+![tableau_prediction](https://github.com/Varshini15-official/LMS-Analytics-Project/blob/main/LMS_Analysis/tableau/TABLEAU%20PREDICTION%20VISUALIZATION/tableau_prediction.png)
+
 
 ---
 
