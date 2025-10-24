@@ -69,13 +69,13 @@ It integrates **SQL, Excel, Python, and Tableau** to build a complete end-to-end
 
 ## 📁 Workflow
 
-Raw data(cleaning using python)  
+Python (Raw data to cleaned)
 ↓  
-SQL views  
+SQL Views  
 ↓  
 Excel Insights  
 ↓  
-Python (Random Forest Model for Predictions)
+Machine Learning(Random Forest for predictions)   
 ↓  
 Tableau (Prediction visualization)
 
